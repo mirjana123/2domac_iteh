@@ -16,6 +16,6 @@ class Speciality extends Model
         'image'
     ];
 
-    
+    //ddasfasfaf
     
 }
